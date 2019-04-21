@@ -1,2 +1,5 @@
 ^.*\.Rproj$
 ^\.Rproj\.user$
+^samplercpppackage\.Rcheck$
+^samplercpppackage.*\.tar\.gz$
+^samplercpppackage.*\.tgz$
